@@ -3,7 +3,7 @@ const router = Router();
 
 router.get('/', (req, res) => {
     res.send(`
-        <h1>📦 Bienvenido a la API de Contenidos proyecto</h1>
+        <h1>📦 Bienvenido a la API de Contenidos proyecto IaC</h1>
         <p>Esta API te permite listar, agregar y eliminar contenidos almacenados.</p>
         
         <h2>💡 Endpoints disponibles:</h2>
